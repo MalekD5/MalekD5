@@ -7,7 +7,7 @@
 
 - :school: Software Engineering Student _**(class of 2024)**_
 - :gem: Web Development enjoyer
-- :palm_tree: learning ReactJS & Tailwind
+- :palm_tree: learning NextJs
 
 ---
 
