@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm MalekD5</h2>
+<h2 align="center">👋 Hello! I'm Malek</h2>
 <div align="center"> 
 
   ![Profile](https://komarev.com/ghpvc/?username=MalekD5&label=Profile%20views&color=0e75b6&style=flat)
