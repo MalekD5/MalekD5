@@ -5,7 +5,7 @@
 
 </div>
 
-- :school: Software Engineering Student _**(class of 2024)**_
+- :school: Software Engineering Student _**(class of 2025)**_
 - :gem: Web Development enjoyer
 - :palm_tree: learning NextJs
 
