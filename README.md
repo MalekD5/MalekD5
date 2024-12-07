@@ -3,7 +3,7 @@
 
  ![Profile](https://komarev.com/ghpvc/?username=MalekD5&label=Profile%20views&color=0e75b6&style=for-the-badge)
   
- [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&style=for-the-badge)](https://malekd5.vercel.app)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malek-s-20a477250/) [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/malek_d5)
+ [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&style=for-the-badge)](https://malekd5.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malek-s-20a477250/) [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/malek_d5)
   
 </div>
 
