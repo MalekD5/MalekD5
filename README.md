@@ -8,8 +8,7 @@
 </div>
 
 - Software Engineer
-- Agentic Spec Driven Development
-- Exploring the world of FinTech
+- Exploring the world of FinTech & Agentic Coding
 
 ---
 
