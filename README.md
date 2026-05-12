@@ -7,9 +7,9 @@
   
 </div>
 
-- 👨‍💻 Passionate Software Engineer
-- 💎 Enthusiast of Web & Game Development
-- 🎮 Exploring the world of Unity for game creation
+- Software Engineer
+- Agentic Spec Driven Development
+- Exploring the world of FinTech
 
 ---
 
@@ -17,11 +17,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MalekD5&theme=light)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malekd5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 ---
 <div align="center">
-  "Keep building, keep learning, and stay curious!" 🚀
+   "Simplicity is the ultimate sophistication"
 </div>
